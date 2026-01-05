@@ -1,0 +1,5 @@
+{
+  "name": "TrackScout: Animal Footprint Analyzer",
+  "description": "An intelligent tool for nature enthusiasts to identify animal tracks from photos using AI analysis.",
+  "requestFramePermissions": []
+}
